@@ -1,0 +1,26 @@
+,Variable 1,Variable 2,Correlation
+0,Trustworthiness,Trustworthiness,1.0
+1,Trustworthiness,Continuity,0.86
+2,Trustworthiness,Shephard Diagram Correlation,0.62
+3,Trustworthiness,7-Neighborhood Hit,0.22
+4,Trustworthiness,Distance Consistency,0.13
+5,Continuity,Trustworthiness,0.86
+6,Continuity,Continuity,1.0
+7,Continuity,Shephard Diagram Correlation,0.7
+8,Continuity,7-Neighborhood Hit,0.26
+9,Continuity,Distance Consistency,0.16
+10,Shephard Diagram Correlation,Trustworthiness,0.62
+11,Shephard Diagram Correlation,Continuity,0.7
+12,Shephard Diagram Correlation,Shephard Diagram Correlation,1.0
+13,Shephard Diagram Correlation,7-Neighborhood Hit,0.13
+14,Shephard Diagram Correlation,Distance Consistency,0.15
+15,7-Neighborhood Hit,Trustworthiness,0.22
+16,7-Neighborhood Hit,Continuity,0.26
+17,7-Neighborhood Hit,Shephard Diagram Correlation,0.13
+18,7-Neighborhood Hit,7-Neighborhood Hit,1.0
+19,7-Neighborhood Hit,Distance Consistency,0.85
+20,Distance Consistency,Trustworthiness,0.13
+21,Distance Consistency,Continuity,0.16
+22,Distance Consistency,Shephard Diagram Correlation,0.15
+23,Distance Consistency,7-Neighborhood Hit,0.85
+24,Distance Consistency,Distance Consistency,1.0
